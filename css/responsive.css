@@ -1,0 +1,254 @@
+@media(max-width: 1199px){
+	.container {max-width: 970px;}
+	button.slick-next {right: 20px;}
+	button.slick-prev {left: 20px;}
+	.ptb-100 {padding-top: 80px; padding-bottom: 80px;}
+	.pt-100 {padding-top: 80px;}
+	.pb-100 {padding-bottom: 80px;}
+	.mtb-100 {margin-top: 80px; margin-bottom: 80px;}
+	.mt-100 {margin-top: 80px;}
+	.mb-100 {margin-bottom: 80px;}
+
+	/*----- Header Section Css -----*/
+	.header-logo {max-width: 90%;}
+	.main-menu > ul > li > a {padding: 30px 18px;}
+	.main-menu ul li a.book-now {padding: 10px 25px; margin-left: 15px;}
+	.sticky .main-menu > ul > li > a {padding: 25px 18px;}
+	.sticky .main-menu ul li a.book-now {padding: 10px 25px;}
+
+	/*----- Home Page Css -----*/
+	.banner-sub-head {font-size: 35px;}
+	.banner-head {font-size: 110px; padding-bottom: 40px;}
+	.banner-desc {font-size: 20px;}
+	.banner-bg {padding: 280px 0px 190px 0px;}
+	.our-story {padding: 80px 0px;}
+	.our-story-img {width: 35%;}
+	.iteam-name {font-size: 20px;}
+	.team-slider button.slick-arrow{top: 115px;}
+
+	/*----- About Page Css -----*/
+	.sub-page {padding: 200px 0px 130px 0px;}
+
+	/*----- Contact Page Css -----*/
+	.contact-box {padding: 50px 30px;}
+}
+
+@media(max-width: 991px){
+	.container {max-width: 760px;}
+	.ptb-100 {padding-top: 50px; padding-bottom: 50px;}
+	.pt-100 {padding-top: 50px;}
+	.pb-100 {padding-bottom: 50px;}
+	.pb-50 {padding-bottom: 30px;}
+	.mtb-100 {margin-top: 50px; margin-bottom: 50px;}
+	.mt-100 {margin-top: 50px;}
+	.mb-100 {margin-bottom: 50px;}
+	.head-title {font-size: 40px; padding-bottom: 10px;}
+	.head-sub-title {font-size: 20px; padding-bottom: 15px;}
+	.section-headding {margin-bottom: 40px;}
+	.form-control {height: 40px;}
+	.quick-reservation .form-btn {padding-top: 0px;}
+	.button {padding: 8px 25px;}
+	.order-r-2{order: 2;}
+	.order-r-1{order: 1;}
+
+	/*----- Header Section Css -----*/
+	.main-menu > ul > li > a {padding: 20px 12px; font-size: 13px;}
+	.main-menu ul li a.book-now { padding: 7px 15px; margin-left: 10px; font-size: 13px;}
+	.sticky .main-menu > ul > li > a {padding: 20px 12px;}
+	.sticky .main-menu ul li a.book-now {padding: 7px 15px;}
+
+	/*----- Home Page Css -----*/
+	.banner-sub-head {font-size: 30px; padding-bottom: 10px;}
+	.banner-head {font-size: 80px; padding-bottom: 20px;}
+	.banner-desc {font-size: 16px;}
+	.banner-bg {padding: 200px 0px 150px 0px;}
+	.home-banner button.slick-arrow{margin-top: 30px;}
+	.discover-box {padding: 0;}
+	.discover-title {font-size: 20px;}
+	.our-story {padding: 50px 0px;}
+	.our-story-content {padding: 0px 40px;}
+	.iteam-name {font-size: 18px; width: calc(100% - 90px);}
+	.iteam-price {font-size: 20px; width: 90px;}
+	.menu-box {padding: 20px 20px;}
+	.members-name {font-size: 16px;}
+	.team-slider button.slick-next {right: 13px;}
+	.blog-box-img {width: 140px;}
+	.blog-box-des {width: calc(100% - 140px); padding: 10px 15px;}
+	.blog-title {font-size: 14px; height: 24px; -webkit-line-clamp: 1;}
+	.blog-des {height: 44px; -webkit-line-clamp: 2;}
+	.blog-date {font-size: 14px;}
+	.image-slider {width: 350px;}
+	.tet-slider {width: calc(100% - 350px); margin-left: -70px; padding: 15px 20px;}
+	.newsletter.position-r {padding: 30px 30px;}
+	.newsletter-title {font-size: 20px;}
+	.newsletter .form-group {margin-bottom: 15px;}
+
+	/*----- About Page Css -----*/
+	.sub-page {padding: 160px 0px 130px 0px;}
+	.sub-page-title {font-size: 60px; margin-bottom: 18px;}
+	.sub-page-des {line-height: 24px;}
+	.history-title {font-size: 20px;}
+
+	/*----- Blog Listing Page Css -----*/
+	.latest-blog-box:last-child{margin-bottom: 50px;}
+	.blog-gallery-box {width: auto;}
+	.latest-title {font-size: 20px;}
+	.pagination {margin-bottom: 50px; justify-content: center;}
+
+	/*----- Blog Masonry Page Css -----*/
+	.blog-masonry .pagination {margin-bottom: 0px; padding-top: 0;}
+	.masonry-detail {padding: 10px 15px;}
+
+	/*----- Blog Detail Page Css -----*/
+	.blog-detail-contain h2 {font-size: 20px; padding-bottom: 15px;}
+	.blog-detail-contain blockquote {font-size: 18px; line-height: 25px;}
+	.comment-part h3 {font-size: 20px;}
+	.leave-comment-inn h3, .related-news-in h3 {font-size: 20px; padding-bottom: 20px;}
+	.blog-detail-contain, .leave-comment-inn {padding: 20px 30px;}
+
+	/*----- Contact Page Css -----*/
+	.contact-icon {width: 60px; height: 60px; line-height: 50px; font-size: 20px; top: -30px;}
+	.contact-box {padding: 40px 15px; height: 100%;}
+	.google-map {height: 400px;}
+
+	/*----- Footer Css -----*/
+	footer {padding-top: 30px;}
+	.footer {padding: 30px 0px;}
+	.copyright {padding: 15px 10px;}
+	.footer-logo-part img {max-width: 150px;}
+	.footer-menu {padding: 20px 20px;}
+	.menu-title {font-size: 15px;}
+}
+
+@media(min-width: 768px){
+	.main-menu ul li:hover ul {opacity: 1; visibility: visible;}
+	.main-menu ul li:hover ul li a {padding: 5px 25px;}
+	.main-menu > ul > li:hover > a:before{width: calc(100% - 50px);}
+}
+
+@media(max-width: 767px){
+	.container {max-width: 100%;}
+	.ptb-100 {padding-top: 30px; padding-bottom: 30px;}
+	.pt-100 {padding-top: 30px;}
+	.pb-100 {padding-bottom: 30px;}
+	.pb-50 {padding-bottom: 30px;}
+	.mtb-100 {margin-top: 30px; margin-bottom: 30px;}
+	.mt-100 {margin-top: 30px;}
+	.mb-100 {margin-bottom: 30px;}
+	.section-headding {margin-bottom: 30px;}
+	.head-title {font-size: 30px; padding-bottom: 5px;}
+	.head-sub-title {font-size: 18px; padding-bottom: 10px;}
+	.form-group textarea {height: 100px;}
+	.error-part .main-text {font-size: 50px; line-height: 50px;}
+	h2 {font-size: 20px;}
+
+	/*----- Header Section Css -----*/
+	.header-logo {max-width: 150px;}
+	.header {padding: 10px 0px;}
+	.menu-toggle{display: block;}
+	.main-menu { position: absolute; top: 11px; left: 0; background: #000; width: 100%; height: calc(100vh - 45px); padding-top: 10px; z-index: 9; display: none;}
+	.main-menu > ul {display: block;}
+	.main-menu > ul > li {display: block;}
+	.main-menu > ul > li > a {padding: 10px 15px; font-size: 16px;}
+	.main-menu ul li a.book-now {margin-left: 0px; background: transparent; border: 0;}
+	.sticky .main-menu > ul > li > a {padding: 10px 15px;}
+	.main-menu > ul > li:hover > a {text-decoration: unset;}
+	.opener{display: block;}
+	.main-menu ul ul {position: unset; visibility: visible; opacity: 1; background: transparent; display: none; transition: unset; padding: 0px 0px;}
+	.main-menu ul ul li a {color: #fff; font-size: 14px; padding: 5px 30px;}
+
+	/*----- Home Page Css -----*/
+	.banner-bg {padding: 160px 0px 120px 0px;}
+	.banner-sub-head {font-size: 25px;}
+	.banner-head {font-size: 50px; padding-bottom: 15px;}
+	.banner-desc {font-size: 16px; letter-spacing: 3px;}
+	.home-banner .slick-dots {position: absolute; bottom: 20px; left: 50%; transform: translate(-50%);}
+	.discover-box {margin-bottom: 25px;}
+	.col-xl-4:last-child .discover-box {margin-bottom: 0;}
+	.discover-title {font-size: 18px;}
+	.discover-img {margin-bottom: 5px;}
+	.our-story-img {display: none;}
+	.our-story-content {padding: 0px 0px;}
+	.our-story {padding: 30px 0px;}
+	.iteam-name {font-size: 16px; width: calc(100% - 80px);}
+	.iteam-price {font-size: 18px; width: 80px;}
+	.form-group {margin-bottom: 15px;}
+	.team-img img {margin: auto;}
+	.slick-dots {padding-top: 0px;}
+	.blog-box {margin-bottom: 15px;}
+	.blog-box-img {width: 120px;}
+	.testimoniyal.-inner {display: block;}
+	.image-slider {width: 100%; float: unset;}
+	.tet-slider {width: unset; margin-left: 0px; padding: 15px 20px 25px 20px; float: unset; margin: 0px -15px;}
+
+	/*----- About Page Css -----*/
+	.sub-page {padding: 135px 0px 100px 0px;}
+	.sub-page-title {font-size: 50px;}
+	.sub-page-des {line-height: 22px;}
+	.history-title {font-size: 18px; margin-bottom: 15px;}
+
+	/*----- Menu Page Css -----*/
+	.menu-tabbing ul {background: transparent; display: block; text-align: center; width: 100%;}
+	.menu-tabbing ul li a {background: #a21e21; width: 100%; margin-bottom: 15px; padding: 10px 35px; font-size: 14px;}
+
+	/*----- Blog Listing Page Css -----*/
+	.latest-date {font-size: 14px;}
+	.latest-title {font-size: 18px;}
+	.latest-blog-box {margin-bottom: 30px;}
+	.latest-blog-box:last-child {margin-bottom: 30px;}
+	.blog-categories {padding: 10px 15px;}
+	.blog-sidebar-title {font-size: 16px;}
+	.Categories-blog {padding-top: 15px;}
+	.pagination ul li a {width: 35px; height: 35px; line-height: 35px;}
+	.latest-blog-img{margin-bottom: 15px;}
+
+	/*----- Blog Masonry Page Css -----*/
+	.masonry-title{height: 25px; -webkit-line-clamp: 1;}
+	.masonry-des{height: 52px; -webkit-line-clamp: 2;}
+
+	/*----- Blog Detail Page Css -----*/
+	.blog-detail-contain span {font-size: 14px;}
+	.blog-detail-contain h2 {font-size: 18px; padding-bottom: 10px;}
+	.blog-detail-contain, .leave-comment-inn {padding: 15px 20px;}
+	.blog-detail-contain blockquote {font-size: 16px; line-height: 22px; padding: 10px 10px;}
+	.blog-detail-tag span {width: 100%;}
+	.blog-detail-tag ul {width: 100%;}
+	.blog-detail-tag {display: block;}
+	.blog-detail-tag ul li {padding: 3px 1px;}
+	.blog-detail-tag ul li:first-child{padding-left: 0;}
+	.comment-detail .reply-btn {position: unset; margin-top: 10px;}
+	.comment-user {width: 70px;}
+	.comment-detail {width: calc(100% - 90px);}
+	.comment-part ul .comment-user {width: 70px;}
+	.comment-part ul .comment-detail {width: calc(100% - 90px);}
+	.comment-part h3 {font-size: 18px; margin-top: 0px;}
+	.leave-comment-inn h3, .related-news-in h3 {font-size: 18px; padding-bottom: 15px;}
+	.comment-part ul > li {margin-top: 20px;}
+	.comment-part ul ul {padding-left: 0; padding-top: 20px;}
+	.comment-detail .footer-social li a {width: 30px; height: 30px; line-height: 30px; font-size: 15px;}
+	.comment-detail .footer-social li{padding: 0px 3px;}
+
+	/*----- Galler Page Css -----*/
+	.gallery-img {-ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%; width: 100%; text-align: center;}
+	.filters-isotope .button {margin: 5px 3px; padding: 5px 20px;}
+
+	/*----- Contact Page Css -----*/
+	.contact-box {margin-bottom: 50px; height: unset;}
+	.col-md-4:last-child .contact-box{margin-bottom: 0;}
+	.google-map {height: 350px;}
+
+	/*----- Footer Css -----*/
+	.newsletter.position-r {padding: 20px 20px;}
+	.newsletter-title {font-size: 18px; text-align: center; margin-bottom: 25px;}
+	.newsletter .form-group {margin-bottom: 0px;}
+	.logo-des {padding-bottom: 15px;}
+	.footer-menu {display: block; padding-bottom: 0; margin-top: 20px;}
+	.footer-menu-box{position: relative; display: inline-block; width: 100%;}
+	.footer-block-contant{display: none; padding-bottom: 20px;}
+	.footer-logo-part {max-width: 100%;}
+	.footer-menu-box .opener:before{width: 12px;}
+	.footer-menu-box .opener:after{right: 6px; height: 12px;}
+	.footer-menu-box .opener.active:after {top: 3px;}
+	.footer-menu-box .opener{top: 10px; right: 0px;}
+
+}
